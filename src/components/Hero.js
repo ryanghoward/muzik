@@ -1,6 +1,7 @@
 import VisibilitySensor from "react-visibility-sensor";
 import { useState } from "react";
 import { motion } from "framer-motion";
+import DownloadAds from "./DownloadAds";
 
 import backgraphics from "../images/backgraphics.png";
 import p1 from "../images/p 1.png";
@@ -66,6 +67,7 @@ function Hero() {
           </span>
           <div>
             <span className='text-[13px]'>Download now on IOS and Android</span>
+            <DownloadAds />
           </div>
         </div>
         <div className='images relative w-[50%]'>
