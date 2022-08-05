@@ -55,9 +55,9 @@ function Hero() {
     >
       <div className='wrapper bg-[#081730] flex items-center justify-between px-[5rem] rounded-b-[5rem] w-[100%] h-[35rem] relative z-[3]'>
         <div className='headings flex flex-col items-start justify-center h-[100%] text-[3rem]'>
-          <span>Experience The</span>
+          <span>Listen To Your</span>
           <span>
-            <b>Best Quality Music</b>
+            <b>Favorite Music</b>
           </span>
           <span className='text-[15px] text-[#525d6e]'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. In, esse.
