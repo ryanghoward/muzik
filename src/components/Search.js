@@ -42,7 +42,7 @@ function Search() {
   return (
     <div className='search relative h-[65rem] px-[5rem] bg-[#081730] pt-[18rem] pb-[10rem] mt-[-15rem] z-[1] flex items-center justify-between rounded-b-[5rem]'>
       <div className='left flex-1'>
-        <motion.img
+        {/* <motion.img
           variants={bg}
           animate={`${elementIsVisible}`}
           transition={{
@@ -52,7 +52,7 @@ function Search() {
           src={backgraphics}
           alt='/'
           className='absolute top-[22rem] left-[-47rem]'
-        />
+        /> */}
         <motion.img
           src={d1}
           alt='/'
